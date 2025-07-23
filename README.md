@@ -34,8 +34,6 @@ It detects when the game is running and updates the user's Discord Rich Presence
    python script.py
    ```
 
-Or just run the exe file in the release section.
-
 ## 🎮 Get the game
 
 You can download the game [here](https://archive.org/download/pinball_202412/Pinball.zip).
